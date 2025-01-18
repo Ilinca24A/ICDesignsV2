@@ -1,0 +1,29 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  body, p, h1, h2, li, a { 
+    font-family: "Libre Baskerville", serif !important; 
+  }
+
+  iframe {
+    border: 0;
+  }
+
+  .specific-heading {
+    font-size: 2rem; 
+  }
